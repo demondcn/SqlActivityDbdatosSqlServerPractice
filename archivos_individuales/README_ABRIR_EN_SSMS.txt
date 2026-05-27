@@ -1,7 +1,7 @@
 ARCHIVOS PARA ABRIR EN SQL SERVER MANAGEMENT STUDIO
 
 Carpeta:
-C:\Users\demondcn\Downloads\anderson proyect\ActividadSQL\archivos_individuales
+C:\Users\demondcn\Downloads\anderson proyect\SqlActivityDbdatosSqlServerPractice\archivos_individuales
 
 Puedes abrir cualquier archivo .sql en SQL Server Management Studio:
 
@@ -27,7 +27,4 @@ Sistema de matriculas con estudiante, materia, cupo disponible y ROLLBACK si no 
 
 00_Ejecutar_Todo.sql
 Archivo maestro con todos los ejercicios en un solo script.
-Para usarlo en SSMS debes activar Query > SQLCMD Mode.
-
-Si quieres ejecutar todo sin activar SQLCMD Mode, usa este archivo:
-C:\Users\demondcn\Downloads\anderson proyect\ActividadSQL\ejercicios_F_G_H_I.sql
+Se puede ejecutar directamente con F5. No necesita SQLCMD Mode.
